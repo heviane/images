@@ -1,12 +1,8 @@
 # Image repository
 
-## List of images
+Repository for storing and serving images for projects, documentation and other repositories.
 
-### Avatars
+## References
 
- <img 
-      align=left
-      margin=10
-      width=80
-      src="avatar-1.jpeg"
-    />
+<!-- Markdown link with stylized badge -->
+[![Tech Icons](https://img.shields.io/badge/Tech%20Icons-Website-blue?style=for-the-badge)](https://techicons.dev/)
